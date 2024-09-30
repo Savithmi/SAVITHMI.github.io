@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - N.K Savithmi  Chandrasekara</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>N.K.S.N.CHANDRASEKARA </h1>
+        <img src="IMG_9963.jpg" alt="Your Name">
+        <p>An aspiring biotechnology undergraduate with a passion for research and innovation, who is seeking academic and practical knowledge to contribute to future innovation.</p>
+    </header>
+    
+    <section>
+        <h2>Undergraduate
+BSc (Hons) Biotechnology Sri Lanka Institute of Information Technology
+Advanced Level certificate in biological science stream
+Completion of CEFR in PET level</h2>
+        <ul>
+            <li>Secondary Education: Viharamahadevi Balika Vidyalaya </li>
+            <li>Higher Education: Sri Lanka Institute of Information Technology </li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Work Experience</h2>
+        <p>Served as a lab assistant in Eco Tech Industrial Solutions (PVT.LTD)
+As a lab assistant I assisted in ongoing research projects and contributed to the successful completion of experiments.</p>
+    </section>
+
+    <section>
+        <h2>Other Professional Qualifications</h2>
+        <p>As a volunteer in Biotechnology Students’s Club, I assisted in organizing community events and provided support to attendees.</p>
+    </section>
+
+    <section>
+        <h2>Extracurricular Activities</h2>
+        <ul>
+            <li>Member of Rotaract Club in SLIIT </li>
+            <li>Member of Biotechnology Student’s Club in SLIIT </li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Hobbies</h2>
+        <p>Reading self development books,
+Swimming.</p>
+    </section>
+
+    <section>
+        <h2>Resume</h2>
+        <p><a href="file:///C:/Users/ASUS/OneDrive%20-%20Sri%20Lanka%20Institute%20of%20Information%20Technology/Desktop/My/HS24510141_N.K.S.N%20Chandrasekara.pdf" download>Download my Resume</a></p>
+    </section>
+
+    <footer>
+        <h2>+94717697677</h2>
+        <p>Savithmi2004@gmail.com</p>
+    </footer>
+</body>
+</html>
